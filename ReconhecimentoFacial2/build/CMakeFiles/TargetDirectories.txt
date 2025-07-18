@@ -1,4 +1,0 @@
-/home/pi/ReconhecimentoFacial2/build/CMakeFiles/enroll.dir
-/home/pi/ReconhecimentoFacial2/build/CMakeFiles/attend.dir
-/home/pi/ReconhecimentoFacial2/build/CMakeFiles/edit_cache.dir
-/home/pi/ReconhecimentoFacial2/build/CMakeFiles/rebuild_cache.dir

@@ -1,3 +1,0 @@
-/home/pi/ReconhecimentoFacial2/src/Testes/ST7789_Display_Test/build/CMakeFiles/st7789_display.dir
-/home/pi/ReconhecimentoFacial2/src/Testes/ST7789_Display_Test/build/CMakeFiles/edit_cache.dir
-/home/pi/ReconhecimentoFacial2/src/Testes/ST7789_Display_Test/build/CMakeFiles/rebuild_cache.dir
