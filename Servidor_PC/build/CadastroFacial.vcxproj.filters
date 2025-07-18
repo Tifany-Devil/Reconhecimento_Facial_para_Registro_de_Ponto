@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\tifany\Documents\UnB\12 semestre\Sistemas Operacionais Embarcados\Projeto Final\Servidor\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\tifany\Documents\UnB\12 semestre\Sistemas Operacionais Embarcados\Projeto Final\Servidor\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\tifany\Documents\UnB\12 semestre\Sistemas Operacionais Embarcados\Projeto Final\Servidor\src\mongoose.c">
+      <Filter>Source Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{17124B64-D674-3185-9E39-CBD895609E4F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

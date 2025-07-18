@@ -1,0 +1,10 @@
+^D:\TIFANY\DOCUMENTS\UNB\12 SEMESTRE\SISTEMAS OPERACIONAIS EMBARCADOS\PROJETO FINAL\SERVIDOR\CMAKELISTS.TXT
+setlocal
+C:\mingw-w64\bin\cmake.exe "-SD:/tifany/Documents/UnB/12 semestre/Sistemas Operacionais Embarcados/Projeto Final/Servidor" "-BD:/tifany/Documents/UnB/12 semestre/Sistemas Operacionais Embarcados/Projeto Final/Servidor/build" --check-stamp-file "D:/tifany/Documents/UnB/12 semestre/Sistemas Operacionais Embarcados/Projeto Final/Servidor/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

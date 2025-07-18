@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/st7789_display.dir/main.cpp.o CMakeFiles/st7789_display.dir/ST7789.cpp.o -o st7789_display  -lbcm2835 

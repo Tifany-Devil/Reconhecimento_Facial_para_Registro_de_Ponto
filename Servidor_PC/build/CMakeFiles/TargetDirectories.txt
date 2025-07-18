@@ -1,0 +1,3 @@
+D:/tifany/Documents/UnB/12 semestre/Sistemas Operacionais Embarcados/Projeto Final/Servidor/build/CMakeFiles/CadastroFacial.dir
+D:/tifany/Documents/UnB/12 semestre/Sistemas Operacionais Embarcados/Projeto Final/Servidor/build/CMakeFiles/edit_cache.dir
+D:/tifany/Documents/UnB/12 semestre/Sistemas Operacionais Embarcados/Projeto Final/Servidor/build/CMakeFiles/rebuild_cache.dir

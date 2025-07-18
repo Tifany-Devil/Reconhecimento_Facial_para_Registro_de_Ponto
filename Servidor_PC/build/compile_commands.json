@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/tifany/Documents/UnB/12 semestre/Sistemas Operacionais Embarcados/Projeto Final/Servidor/build",
+  "command": "C:\\mingw-w64\\bin\\g++.exe  @CMakeFiles/CadastroFacial.dir/includes_CXX.rsp -std=gnu++17 -o CMakeFiles\\CadastroFacial.dir\\src\\main.cpp.obj -c \"D:\\tifany\\Documents\\UnB\\12 semestre\\Sistemas Operacionais Embarcados\\Projeto Final\\Servidor\\src\\main.cpp\"",
+  "file": "D:/tifany/Documents/UnB/12 semestre/Sistemas Operacionais Embarcados/Projeto Final/Servidor/src/main.cpp",
+  "output": "CMakeFiles/CadastroFacial.dir/src/main.cpp.obj"
+}
+]
